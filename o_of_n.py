@@ -28,5 +28,5 @@ print(i) - This is a function call to print, which outputs the current value of 
 print_items(10) - This is a call to the function print_items with the argument 10. This will result in the function 
 running its code (the loop) with n being 10, and so it will print numbers from 0 up to but not including 10.
 
-So, in essence, this code prints out the sequence of numbers from 0 to 9.
+So, in essence, this code prints out the sequence of numbers from 0 to 9. 
  """
